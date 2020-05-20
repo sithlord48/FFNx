@@ -1,12 +1,14 @@
-cmake_minimum_required(VERSION 3.15)
+project(FFNx)
+cmake_minimum_required(VERSION 3.12)
 cmake_policy(SET CMP0091 NEW)
 
 set(CMAKE_CXX_FLAGS "/std:c++latest")
 set(CMAKE_MSVC_RUNTIME_LIBRARY "MultiThreadedDebug")
 set(CMAKE_SHARED_LINKER_FLAGS "${CMAKE_SHARED_LINKER_FLAGS} /NODEFAULTLIB:MSVCRT /NODEFAULTLIB:MSVCRTD /NODEFAULTLIB:LIBCMT /DEBUG /FORCE:MULTIPLE")
 set(_DLL_VERSION "${_DLL_VERSION}")
-
 set(CMAKE_MODULE_PATH "${CMAKE_SOURCE_DIR}/cmake")
+
+add_subdirectory(src)
 
 option(FORCEHEAP "Force all allication to our heap" OFF)
 if (FORCEHEAP)
@@ -24,7 +26,6 @@ if (PROFILING)
 endif()
 
 option(SUPERBUILD "Build the project using a superbuild" ON)
-
 if (SUPERBUILD)
 	project(SUPERBUILD)
 	set_directory_properties(PROPERTIES EP_BASE "${CMAKE_BINARY_DIR}/ep")
@@ -58,6 +59,4 @@ if (SUPERBUILD)
 	return()
 endif()
 
-project(FFNx)
-add_subdirectory(src)
 
