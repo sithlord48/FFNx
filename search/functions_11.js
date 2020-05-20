@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['read_5fbattle_5fhrc',['read_battle_hrc',['../defs_8h.html#acffb33565c465e9ebdb7631e4587384b',1,'read_battle_hrc(uint use_file_context, struct file_context *file_context, char *filename):&#160;loaders.cpp'],['../loaders_8cpp.html#acffb33565c465e9ebdb7631e4587384b',1,'read_battle_hrc(uint use_file_context, struct file_context *file_context, char *filename):&#160;loaders.cpp']]],
+  ['read_5fcfg',['read_cfg',['../cfg_8cpp.html#a8b4b5a8c0511c9fbf98ea5836a908062',1,'read_cfg():&#160;cfg.cpp'],['../cfg_8h.html#a8b4b5a8c0511c9fbf98ea5836a908062',1,'read_cfg():&#160;cfg.cpp']]],
+  ['read_5ffile',['read_file',['../defs_8h.html#a112ab8f39c9330152a8177f623601796',1,'read_file(uint count, void *buffer, struct ff7_file *file):&#160;file.cpp'],['../file_8cpp.html#a112ab8f39c9330152a8177f623601796',1,'read_file(uint count, void *buffer, struct ff7_file *file):&#160;file.cpp']]],
+  ['refresh',['Refresh',['../class_gamepad.html#a921b5dc84bf8ed91c9e53fd69f0113fe',1,'Gamepad']]],
+  ['remember_5fplaying_5ftime',['remember_playing_time',['../music_8cpp.html#a367cf26cf061b59e3d7f4b50b95743a0',1,'remember_playing_time():&#160;music.cpp'],['../music_8h.html#a367cf26cf061b59e3d7f4b50b95743a0',1,'remember_playing_time():&#160;music.cpp']]],
+  ['renderframe',['renderFrame',['../class_renderer.html#a02a137957c8783a44df5cad4b5e1b635',1,'Renderer']]],
+  ['replace',['replace',['../utils_8h.html#a0159b96c217d65d379016f6aa2c4dd57',1,'utils.h']]],
+  ['replace_5fcall',['replace_call',['../patch_8cpp.html#aa41a0add4ebbcc6b360a06a6aebaf26a',1,'replace_call(uint offset, void *func):&#160;patch.cpp'],['../patch_8h.html#aa41a0add4ebbcc6b360a06a6aebaf26a',1,'replace_call(uint offset, void *func):&#160;patch.cpp']]],
+  ['replace_5fextension',['replace_extension',['../plugin_8cpp.html#a2a7f96c9a25804b767b5da824b7c8d94',1,'plugin.cpp']]],
+  ['replace_5ffunction',['replace_function',['../patch_8cpp.html#ad072974f905f6b0e6bb3f983fcb438ed',1,'replace_function(uint offset, void *func):&#160;patch.cpp'],['../patch_8h.html#ad072974f905f6b0e6bb3f983fcb438ed',1,'replace_function(uint offset, void *func):&#160;patch.cpp']]],
+  ['reset',['reset',['../class_renderer.html#a7c52465b73bde8441a5c462d13b81660',1,'Renderer']]],
+  ['restart_5fmidi',['restart_midi',['../music_8cpp.html#a711ad22cc6a8643e3a2134e55180de83',1,'restart_midi():&#160;music.cpp'],['../music_8h.html#a711ad22cc6a8643e3a2134e55180de83',1,'restart_midi():&#160;music.cpp']]],
+  ['resume',['Resume',['../class_custom_out_plugin.html#a072fa9f5b60bca5632cae1e164ffc28c',1,'CustomOutPlugin::Resume()'],['../class_abstract_in_plugin.html#acd87900ab59761cc8388c7ff058f5c86',1,'AbstractInPlugin::resume()']]],
+  ['rotate_5fleft',['rotate_left',['../class_m_d5.html#a97ece3d8221e3c9c994aa9d13001b1d9',1,'MD5']]],
+  ['rotate_5fmatrix_5fx',['rotate_matrix_x',['../matrix_8cpp.html#a42f2228624931abc1c719ddd97ef0003',1,'rotate_matrix_x(float angle, struct matrix *matrix):&#160;matrix.cpp'],['../matrix_8h.html#a42f2228624931abc1c719ddd97ef0003',1,'rotate_matrix_x(float angle, struct matrix *matrix):&#160;matrix.cpp']]],
+  ['rotate_5fmatrix_5fy',['rotate_matrix_y',['../matrix_8cpp.html#a3a940039c691424f58728a0538d2bf1d',1,'rotate_matrix_y(float angle, struct matrix *matrix):&#160;matrix.cpp'],['../matrix_8h.html#a3a940039c691424f58728a0538d2bf1d',1,'rotate_matrix_y(float angle, struct matrix *matrix):&#160;matrix.cpp']]],
+  ['rotate_5fmatrix_5fz',['rotate_matrix_z',['../matrix_8cpp.html#a8bb606d6af25614f602e2fa6101dc8da',1,'rotate_matrix_z(float angle, struct matrix *matrix):&#160;matrix.cpp'],['../matrix_8h.html#a8bb606d6af25614f602e2fa6101dc8da',1,'rotate_matrix_z(float angle, struct matrix *matrix):&#160;matrix.cpp']]],
+  ['rotation_5fmatrix_5fx',['rotation_matrix_x',['../matrix_8cpp.html#a87944d85e597f6c37ef1447fbd873168',1,'rotation_matrix_x(float angle, struct matrix *matrix):&#160;matrix.cpp'],['../matrix_8h.html#a87944d85e597f6c37ef1447fbd873168',1,'rotation_matrix_x(float angle, struct matrix *matrix):&#160;matrix.cpp']]],
+  ['rotation_5fmatrix_5fy',['rotation_matrix_y',['../matrix_8cpp.html#a777aee0d1677878bbd9ab2514874290b',1,'rotation_matrix_y(float angle, struct matrix *matrix):&#160;matrix.cpp'],['../matrix_8h.html#a777aee0d1677878bbd9ab2514874290b',1,'rotation_matrix_y(float angle, struct matrix *matrix):&#160;matrix.cpp']]],
+  ['rotation_5fmatrix_5fz',['rotation_matrix_z',['../matrix_8cpp.html#aceeb343605df131bca5c0ad5248e08c9',1,'rotation_matrix_z(float angle, struct matrix *matrix):&#160;matrix.cpp'],['../matrix_8h.html#aceeb343605df131bca5c0ad5248e08c9',1,'rotation_matrix_z(float angle, struct matrix *matrix):&#160;matrix.cpp']]],
+  ['round',['round',['../ffmpeg_2movies_8cpp.html#a7df19cf730447c00150569250a4b5e1d',1,'movies.cpp']]],
+  ['rtrim',['rtrim',['../utils_8h.html#aa09e1d628a7971037572fa4ed3f3e43b',1,'utils.h']]]
+];

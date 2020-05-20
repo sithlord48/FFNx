@@ -1,0 +1,18 @@
+var searchData=
+[
+  ['lgp_5fchdir',['lgp_chdir',['../defs_8h.html#a65a3d1c602d6c4e2a1cc3d17ef1f521e',1,'lgp_chdir(char *path):&#160;file.cpp'],['../file_8cpp.html#a65a3d1c602d6c4e2a1cc3d17ef1f521e',1,'lgp_chdir(char *path):&#160;file.cpp']]],
+  ['lgp_5fget_5ffilesize',['lgp_get_filesize',['../defs_8h.html#a58ef99d177cc29e4956ff86e2a564b98',1,'lgp_get_filesize(struct lgp_file *file, uint lgp_num):&#160;file.cpp'],['../file_8cpp.html#a58ef99d177cc29e4956ff86e2a564b98',1,'lgp_get_filesize(struct lgp_file *file, uint lgp_num):&#160;file.cpp']]],
+  ['lgp_5flookup_5fvalue',['lgp_lookup_value',['../file_8cpp.html#ac450a3fa0592b4834d99e53724ae5cbf',1,'file.cpp']]],
+  ['lgp_5fopen_5ffile',['lgp_open_file',['../defs_8h.html#aa13e2513484c7f64462ca84807a8c3fa',1,'lgp_open_file(char *filename, uint lgp_num):&#160;file.cpp'],['../file_8cpp.html#aa13e2513484c7f64462ca84807a8c3fa',1,'lgp_open_file(char *filename, uint lgp_num):&#160;file.cpp']]],
+  ['lgp_5fread',['lgp_read',['../defs_8h.html#a5a5a75f21e0845b8a37f91e22ef57e47',1,'lgp_read(uint lgp_num, char *dest, uint size):&#160;file.cpp'],['../file_8cpp.html#a5a5a75f21e0845b8a37f91e22ef57e47',1,'lgp_read(uint lgp_num, char *dest, uint size):&#160;file.cpp']]],
+  ['lgp_5fread_5ffile',['lgp_read_file',['../defs_8h.html#ac2f04642221f4a8c239043ee937bee87',1,'lgp_read_file(struct lgp_file *file, uint lgp_num, char *dest, uint size):&#160;file.cpp'],['../file_8cpp.html#ac2f04642221f4a8c239043ee937bee87',1,'lgp_read_file(struct lgp_file *file, uint lgp_num, char *dest, uint size):&#160;file.cpp']]],
+  ['lgp_5fseek_5ffile',['lgp_seek_file',['../defs_8h.html#a4b2f167c3f2d135a7964dfba10aa4169',1,'lgp_seek_file(uint offset, uint lgp_num):&#160;file.cpp'],['../file_8cpp.html#a4b2f167c3f2d135a7964dfba10aa4169',1,'lgp_seek_file(uint offset, uint lgp_num):&#160;file.cpp']]],
+  ['load_5fanimation',['load_animation',['../defs_8h.html#a0c958e0041ce0b2d107764d5fe38772b',1,'load_animation(struct file_context *file_context, char *filename):&#160;loaders.cpp'],['../loaders_8cpp.html#a0c958e0041ce0b2d107764d5fe38772b',1,'load_animation(struct file_context *file_context, char *filename):&#160;loaders.cpp']]],
+  ['load_5fexternal_5ftexture',['load_external_texture',['../common_8cpp.html#a17f19fbca60521ce362f41176c49b012',1,'common.cpp']]],
+  ['load_5fframebuffer_5ftexture',['load_framebuffer_texture',['../common_8cpp.html#ad6ade7912201915fdd40772062dc2ec1',1,'common.cpp']]],
+  ['load_5fp_5ffile',['load_p_file',['../defs_8h.html#ad941de6769bf002ddc549f279e26a539',1,'load_p_file(struct file_context *file_context, uint create_lists, char *filename):&#160;loaders.cpp'],['../loaders_8cpp.html#ad941de6769bf002ddc549f279e26a539',1,'load_p_file(struct file_context *file_context, uint create_lists, char *filename):&#160;loaders.cpp']]],
+  ['load_5ftex_5ffile',['load_tex_file',['../defs_8h.html#af65149a5427a46b50152442799ad57d7',1,'load_tex_file(struct file_context *file_context, char *filename):&#160;loaders.cpp'],['../loaders_8cpp.html#af65149a5427a46b50152442799ad57d7',1,'load_tex_file(struct file_context *file_context, char *filename):&#160;loaders.cpp']]],
+  ['load_5ftexture',['load_texture',['../saveload_8cpp.html#aed09ad930bc0580cca615fb52074cab5',1,'load_texture(char *name, uint palette_index, uint *width, uint *height, uint use_compression):&#160;saveload.cpp'],['../saveload_8h.html#aed09ad930bc0580cca615fb52074cab5',1,'load_texture(char *name, uint palette_index, uint *width, uint *height, uint use_compression):&#160;saveload.cpp']]],
+  ['load_5ftexture_5fhelper',['load_texture_helper',['../saveload_8cpp.html#a261aa7fbfdb346c95a14ff4b2c81a279',1,'saveload.cpp']]],
+  ['ltrim',['ltrim',['../utils_8h.html#ad43a4a97af0218124c6f1343dd27a295',1,'utils.h']]]
+];

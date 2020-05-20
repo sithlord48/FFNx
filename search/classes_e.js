@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['savemap',['savemap',['../structsavemap.html',1,'']]],
+  ['savemap_5fchar',['savemap_char',['../structsavemap__char.html',1,'']]],
+  ['sprite_5fviewport',['sprite_viewport',['../structsprite__viewport.html',1,'']]],
+  ['ssigpu_5fpacket52',['ssigpu_packet52',['../structssigpu__packet52.html',1,'']]],
+  ['struc_5f106',['struc_106',['../structstruc__106.html',1,'']]],
+  ['struc_5f110',['struc_110',['../structstruc__110.html',1,'']]],
+  ['struc_5f154',['struc_154',['../structstruc__154.html',1,'']]],
+  ['struc_5f154_5f2',['struc_154_2',['../structstruc__154__2.html',1,'']]],
+  ['struc_5f154_5f3',['struc_154_3',['../structstruc__154__3.html',1,'']]],
+  ['struc_5f173',['struc_173',['../structstruc__173.html',1,'']]],
+  ['struc_5f186',['struc_186',['../structstruc__186.html',1,'']]],
+  ['struc_5f205',['struc_205',['../structstruc__205.html',1,'']]],
+  ['struc_5f3',['struc_3',['../structstruc__3.html',1,'']]],
+  ['struc_5f38',['struc_38',['../structstruc__38.html',1,'']]],
+  ['struc_5f49',['struc_49',['../structstruc__49.html',1,'']]],
+  ['struc_5f50',['struc_50',['../structstruc__50.html',1,'']]],
+  ['struc_5f51',['struc_51',['../structstruc__51.html',1,'']]],
+  ['struc_5f77',['struc_77',['../structstruc__77.html',1,'']]],
+  ['struc_5f81',['struc_81',['../structstruc__81.html',1,'']]],
+  ['struc_5f84',['struc_84',['../structstruc__84.html',1,'']]],
+  ['struc_5f91',['struc_91',['../structstruc__91.html',1,'']]]
+];

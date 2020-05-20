@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['object',['object',['../structlist__node.html#af88ca13afcf4804164bfe1ffad62d336',1,'list_node']]],
+  ['offedge',['offedge',['../structp__group.html#ab5e8bfdd07a8d7bf4ea52113a6c172e3',1,'p_group']]],
+  ['offpoly',['offpoly',['../structp__group.html#a0eed70c32568d77a66ef537c50540e13',1,'p_group']]],
+  ['offset',['offset',['../structlgp__file.html#ac25922320e3f675378b0d5716c573c46',1,'lgp_file::offset()'],['../structlgp__toc__entry.html#a81628ea64ed61316ea20e6ecb7cea8f0',1,'lgp_toc_entry::offset()']]],
+  ['offset_5ft',['offset_t',['../struct_custom_out_plugin_state.html#a9b41f266846829628191180437d0ba25',1,'CustomOutPluginState']]],
+  ['offset_5fx',['offset_x',['../structsprite__viewport.html#afc4efa5efd5a5833179259e277973b56',1,'sprite_viewport']]],
+  ['offset_5fy',['offset_y',['../structsprite__viewport.html#aeb1b524266e641c47c7e2038acb17552',1,'sprite_viewport']]],
+  ['offtex',['offtex',['../structp__group.html#a2cbe22e21d8dded113623518acde6ce1',1,'p_group']]],
+  ['offvert',['offvert',['../structp__group.html#ad44b356da877cb32e59955795e88c2a2',1,'p_group']]],
+  ['ogl',['ogl',['../structff7__texture__set.html#abd45a672a02bc0d0b4f2c2d81d454692',1,'ff7_texture_set::ogl()'],['../structff8__texture__set.html#a95990bc18c3c3066d1690049264b9c68',1,'ff8_texture_set::ogl()']]],
+  ['old_5fpalette_5fdata',['old_palette_data',['../structff7__tex__header.html#ad5eddf3fd29151b1f208284b20657e98',1,'ff7_tex_header::old_palette_data()'],['../structff8__tex__header.html#a3f34d58d1554517e455caff5d4c4642c',1,'ff8_tex_header::old_palette_data()']]],
+  ['olddir',['olddir',['../structbattle__chdir__struc.html#a39007204e5b4bc7ee3c602cf3f0cdc9d',1,'battle_chdir_struc']]],
+  ['open',['Open',['../struct_winamp_out_module.html#a6f97f1a0c445a550da4ed64726e8f4b0',1,'WinampOutModule']]],
+  ['open_5ffield_5ffile',['open_field_file',['../structff7__externals.html#a5510818514cfcb6dbb382d798778dadc',1,'ff7_externals']]],
+  ['open_5ffile',['open_file',['../structcommon__externals.html#a089dc3f5ce8be8e8fd035592fc9113be',1,'common_externals']]],
+  ['open_5flgp_5ffile',['open_lgp_file',['../structff7__externals.html#a389679859636e92424fe8f0d2fc69323',1,'ff7_externals']]],
+  ['open_5flzs_5fimage',['open_lzs_image',['../structff8__externals.html#ab3ff3bc01afdeecc14bc654e0630ad46',1,'ff8_externals']]],
+  ['opts',['opts',['../cfg_8cpp.html#ac094651f211bb000f60519febe6d3be2',1,'cfg.cpp']]],
+  ['out',['out',['../winamp_2music_8cpp.html#aaaa283abcbdf7a18dcade74c89515f1d',1,'music.cpp']]],
+  ['outcontext',['outContext',['../struct_winamp_in_context.html#ac217ead5121d069da5a71c8ae4923842',1,'WinampInContext']]],
+  ['outmod',['outMod',['../struct_winamp_in_module_a.html#aa3dfc24bc17442caf1629b4d6015d445',1,'WinampInModuleA::outMod()'],['../struct_winamp_in_module_w.html#ad7394c87f66c9019e672a5d7aa6eee84',1,'WinampInModuleW::outMod()']]],
+  ['outplugin',['outPlugin',['../class_abstract_in_plugin.html#a99f175e48307e8883fd8a107878719af',1,'AbstractInPlugin']]],
+  ['output_5fchannels',['output_channels',['../structwinamp__state__t.html#a053621276c3b5f24cd51590557e1350c',1,'winamp_state_t']]],
+  ['override_5fpath',['override_path',['../cfg_8cpp.html#acef25e605189fdbc73ca12b54c261eb9',1,'override_path():&#160;cfg.cpp'],['../cfg_8h.html#acef25e605189fdbc73ca12b54c261eb9',1,'override_path():&#160;cfg.cpp']]]
+];
